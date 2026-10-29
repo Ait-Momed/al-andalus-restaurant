@@ -1,5 +1,5 @@
- <p align="center">
-  <img src="assets/images/project-cover.png" alt="مطعم الأندلس - الغلاف الرسمي للمشروع" width="100%">
+<p align="center">
+  <img src="assets/images/project-cover.png" alt="مطعم الأندلس — الغلاف الرسمي للمشروع" width="100%">
 </p>
 
 <h1 align="center">🍽️ مطعم الأندلس</h1>
@@ -9,204 +9,152 @@
 <p align="center">
   <strong>أصالة المطبخ المغربي بلمسة عصرية 🇲🇦</strong>
   <br>
-  موقع مغربي يجمع بين التصميم الأنيق، والأطباق التقليدية، وتجربة المستخدم الحديثة.
+  تجربة رقمية مستوحاة من جمال العمارة المغربية ونكهات المطبخ التقليدي.
+</p>
+
+<p align="center">
+  <a href="#about-project"><img src="https://img.shields.io/badge/عن_المشروع-145A38?style=for-the-badge" alt="عن المشروع"></a>
+  <a href="#screenshots"><img src="https://img.shields.io/badge/معرض_الصور-0B422A?style=for-the-badge" alt="معرض الصور"></a>
+  <a href="#team"><img src="https://img.shields.io/badge/فريق_العمل-2F7548?style=for-the-badge" alt="فريق العمل"></a>
+  <a href="#installation"><img src="https://img.shields.io/badge/تحميل_المشروع-A4A85D?style=for-the-badge&logo=github&logoColor=white" alt="تحميل المشروع"></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <a href="#team">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="فريق العمل">
-  </a>
-</p>
-
-<p align="center">
-  <a href="#about-project">عن المشروع</a> •
-  <a href="#features">المميزات</a> •
-  <a href="#screenshots">معرض الصور</a> •
-  <a href="#design-system">نظام التصميم</a> •
-  <a href="#animations">الأنيميشن</a> •
-  <a href="#team">فريق العمل</a> •
-  <a href="#installation">التثبيت والتشغيل</a>
+  <a href="#team"><img src="https://img.shields.io/badge/Our_Team-GitHub-0B422A?style=for-the-badge&logo=github&logoColor=white" alt="فريق GitHub"></a>
 </p>
 
 ---
 
 <a id="about-project"></a>
 
-## 📖 عن المشروع | About the Project
+## 🏛️ عن المشروع
 
-**مطعم الأندلس — Al Andalus Restaurant** هو مشروع موقع إلكتروني لمطعم مغربي تقليدي، يهدف إلى تقديم تجربة رقمية متكاملة للزوار، بدءًا من التعرف على المطعم واستكشاف الأطباق المغربية، وصولًا إلى حجز الطاولات وطلب الطعام والتواصل مع المطعم.
+**مطعم الأندلس — Al Andalus Restaurant** هو مشروع موقع إلكتروني لمطعم مغربي تقليدي، يجمع بين التراث المغربي والتصميم العصري، مع واجهة عربية كاملة باتجاه RTL.
 
-يجمع المشروع بين الأصالة المغربية والتصميم العصري، باستخدام صور احترافية وزخارف مستوحاة من الزليج المغربي، وخطوط عربية واضحة، وحركات انتقالية تضيف الأناقة والحيوية إلى الواجهات.
-
-تم توزيع العمل على خمسة أعضاء، بحيث يتولى كل عضو مسؤولية تطوير مجموعة محددة من الصفحات والوظائف.
+يهدف المشروع إلى تقديم تجربة استخدام متكاملة للزوار، تتيح لهم التعرف على المطعم، واستكشاف الأطباق والمنتجات، وحجز الطاولات، ومراجعة الطلبات، والتواصل مع المطعم. كما يتضمن واجهات مخصصة للمشرف.
 
 ### 📌 معلومات المشروع
 
-| الخاصية | التفاصيل |
+| المعلومة | التفاصيل |
 |---|---|
 | اسم المشروع | مطعم الأندلس |
 | الاسم بالإنجليزية | Al Andalus Restaurant |
 | نوع المشروع | موقع إلكتروني لمطعم مغربي |
 | لغة الواجهة | العربية |
-| اتجاه الكتابة | RTL |
-| تقنيات الواجهة | HTML5, CSS3, JavaScript |
-| إدارة الإصدارات | Git & GitHub |
-| عدد أعضاء الفريق | 5 |
-| مستودع GitHub | [Ait-Momed/al-andalus-restaurant](https://github.com/Ait-Momed/al-andalus-restaurant) |
-| تحميل المشروع | [Download ZIP](https://github.com/Ait-Momed/al-andalus-restaurant/archive/refs/heads/main.zip) |
+| اتجاه الصفحة | RTL |
+| التقنيات | HTML5، CSS3، JavaScript |
+| إدارة الإصدارات | Git وGitHub |
+| أعضاء الفريق | خمسة أعضاء |
+| المستودع | [Ait-Momed/al-andalus-restaurant](https://github.com/Ait-Momed/al-andalus-restaurant) |
 
 ---
 
 <a id="features"></a>
 
-## ✨ المميزات الرئيسية | Key Features
+## ✨ مميزات الموقع
 
-- 🏠 صفحة رئيسية بخلفية فوتوغرافية احترافية.
-- ℹ️ قسم «من نحن» للتعريف بالمطعم.
-- 🥘 قائمة طعام للأطباق المغربية التقليدية.
-- 🛍️ صفحة لعرض المنتجات والصور والأسعار.
-- 🛒 سلة مشتريات لمراجعة المنتجات والكميات والإجمالي.
-- 📅 نظام لحجز الطاولات.
-- 📱 إمكانية التواصل والطلب عبر WhatsApp.
-- 📍 قسم للتواصل ومعلومات الموقع.
-- 🔐 واجهة تسجيل دخول المشرف.
-- 📊 لوحة تحكم إدارية للمطعم.
-- 🎞️ أنيميشن احترافي وانتقالات متناسقة.
+<p align="center">
+  <a href="#screenshots"><img src="https://img.shields.io/badge/01-الصفحة_الرئيسية-145A38?style=for-the-badge" alt="الرئيسية"></a>
+  <a href="#screenshots"><img src="https://img.shields.io/badge/02-من_نحن-0B422A?style=for-the-badge" alt="من نحن"></a>
+  <a href="#screenshots"><img src="https://img.shields.io/badge/03-قائمة_الطعام-2F7548?style=for-the-badge" alt="قائمة الطعام"></a>
+</p>
+
+<p align="center">
+  <a href="#screenshots"><img src="https://img.shields.io/badge/04-الحجز-A4A85D?style=for-the-badge" alt="الحجز"></a>
+  <a href="#screenshots"><img src="https://img.shields.io/badge/05-التواصل-145A38?style=for-the-badge" alt="التواصل"></a>
+  <a href="#screenshots"><img src="https://img.shields.io/badge/06-المنتجات_والشراء-0B422A?style=for-the-badge" alt="المنتجات والشراء"></a>
+</p>
+
+- 🏠 صفحة رئيسية بصورة خلفية احترافية.
+- ℹ️ قسم للتعريف بالمطعم وهويته.
+- 🥘 قائمة طعام للأطباق المغربية.
+- 📅 واجهة لحجز الطاولات.
+- 📱 إمكانية ربط الطلبات والحجز عبر WhatsApp.
+- 📍 قسم للتواصل ومعلومات المطعم.
+- 🛍️ واجهة لعرض المنتجات والأسعار.
+- 🛒 سلة مشتريات ومراجعة إجمالي الطلب.
+- 🔐 صفحة تسجيل دخول المشرف.
+- 📊 لوحة تحكم إدارية.
+- ✨ حركات انتقالية وتأثيرات تفاعلية أنيقة.
 - 📱 تصميم متجاوب مع الحاسوب والهاتف.
-- 🎨 نظام ألوان موحد لجميع صفحات الموقع.
-- 👥 توثيق مهام أعضاء الفريق وروابط حساباتهم.
 
 ---
 
 <a id="design-system"></a>
 
-## 🎨 نظام التصميم الموحد | Design System
+## 🎨 الهوية البصرية
 
-يجب أن تعتمد جميع واجهات الموقع على نظام تصميم موحد، بحيث تحافظ الصفحة الرئيسية وقسم من نحن وقائمة الطعام والحجز والتواصل والمنتجات والسلة وتسجيل دخول المشرف ولوحة التحكم على الهوية البصرية نفسها.
+تجمع الهوية البصرية بين الأجواء المغربية التقليدية والتصميم الحديث، باستخدام الأخضر المغربي والبيج والأبيض الكريمي، مع الزخارف الهندسية والصور الاحترافية.
 
-**الهدف:** توحيد الألوان والخطوط والظلال والحدود والأزرار والبطاقات، مع السماح لكل صفحة باستخدام التخطيط المناسب لوظيفتها دون الإخلال بالتناسق العام.
-
-### 🎨 لوحة الألوان الرسمية
+### لوحة الألوان الرسمية
 
 | اللون | الاستخدام | HEX |
 |---|---|---|
-| الأخضر المغربي | الأزرار الرئيسية والعناوين المهمة | `#145A38` |
-| الأخضر الداكن | التذييل والشريط الجانبي والخلفيات الداكنة | `#0B422A` |
-| الأخضر الفاتح | العناصر التفاعلية وحالات التحويم | `#2F7548` |
-| البيج الفاتح | خلفيات الصفحات الأساسية | `#F8F5EB` |
-| الأبيض الكريمي | البطاقات والنماذج والخلفيات الفاتحة | `#FFFEFA` |
-| البيج الدافئ | المساحات الثانوية والأقسام المميزة | `#F0EBDD` |
-| الأخضر النصي | العناوين والنصوص الرئيسية | `#164D35` |
-| الرمادي المخضر | النصوص الثانوية والوصف | `#52665A` |
-| البيج الرمادي | الحدود والفواصل | `#E4E0D4` |
-| الذهبي الزيتوني | النقوش والزخارف والتفاصيل | `#A4A85D` |
+| <img src="https://img.shields.io/badge/-%20-145A38?style=flat-square" alt="أخضر مغربي"> الأخضر المغربي | الأزرار والعناوين | `#145A38` |
+| <img src="https://img.shields.io/badge/-%20-0B422A?style=flat-square" alt="أخضر داكن"> الأخضر الداكن | التذييل والخلفيات الداكنة | `#0B422A` |
+| <img src="https://img.shields.io/badge/-%20-2F7548?style=flat-square" alt="أخضر فاتح"> الأخضر الفاتح | العناصر التفاعلية | `#2F7548` |
+| <img src="https://img.shields.io/badge/-%20-F8F5EB?style=flat-square" alt="بيج فاتح"> البيج الفاتح | خلفيات الصفحات | `#F8F5EB` |
+| <img src="https://img.shields.io/badge/-%20-FFFEFA?style=flat-square" alt="أبيض كريمي"> الأبيض الكريمي | البطاقات والخلفيات | `#FFFEFA` |
+| <img src="https://img.shields.io/badge/-%20-F0EBDD?style=flat-square" alt="بيج دافئ"> البيج الدافئ | المساحات الثانوية | `#F0EBDD` |
+| <img src="https://img.shields.io/badge/-%20-164D35?style=flat-square" alt="أخضر نصي"> الأخضر النصي | العناوين والنصوص | `#164D35` |
+| <img src="https://img.shields.io/badge/-%20-52665A?style=flat-square" alt="رمادي مخضر"> الرمادي المخضر | النصوص الثانوية | `#52665A` |
+| <img src="https://img.shields.io/badge/-%20-E4E0D4?style=flat-square" alt="بيج رمادي"> البيج الرمادي | الحدود والفواصل | `#E4E0D4` |
+| <img src="https://img.shields.io/badge/-%20-A4A85D?style=flat-square" alt="ذهبي زيتوني"> الذهبي الزيتوني | الزخارف والتفاصيل | `#A4A85D` |
 
-### قواعد تطبيق الألوان
-
-- استخدام الأخضر المغربي للأزرار الأساسية والعناوين المهمة.
-- استخدام الأخضر الداكن للتذييل والخلفيات الإدارية الداكنة.
-- استخدام البيج الفاتح خلفية أساسية للصفحات العامة.
-- استخدام الأبيض الكريمي للبطاقات وحقول الإدخال.
-- استخدام الذهبي الزيتوني للزخارف والفواصل، وليس للنصوص الصغيرة منخفضة التباين.
-- استخدام الرمادي المخضر للنصوص الثانوية.
-- الحفاظ على ألوان الصور الأصلية دون تغيير غير ضروري.
-- منع إدخال ألوان جديدة عشوائيًا خارج لوحة الهوية البصرية.
-- الحفاظ على وضوح النصوص وتباينها مع الخلفيات.
-
-### متغيرات CSS الموحدة
-
-```css
-:root {
-  --color-primary: #145A38;
-  --color-primary-dark: #0B422A;
-  --color-primary-light: #2F7548;
-
-  --color-background: #F8F5EB;
-  --color-surface: #FFFEFA;
-  --color-beige: #F0EBDD;
-
-  --color-text: #164D35;
-  --color-text-secondary: #52665A;
-
-  --color-border: #E4E0D4;
-  --color-decoration: #A4A85D;
-
-  --color-white: #FFFFFF;
-  --color-success: #24834B;
-  --color-warning: #E9B949;
-  --color-danger: #C83F3F;
-
-  --radius-card: 12px;
-  --radius-button: 8px;
-
-  --shadow-card: 0 4px 16px rgba(20, 55, 35, 0.08);
-  --shadow-hover: 0 12px 28px rgba(20, 55, 35, 0.14);
-
-  --transition-fast: 200ms;
-  --transition-normal: 350ms;
-  --transition-smooth: cubic-bezier(0.22, 1, 0.36, 1);
-}
-```
-
-يجب استخدام هذه المتغيرات في ملفات CSS المشتركة، بدل تكرار أكواد الألوان في كل صفحة.
-
-### معايير التصميم العامة
-
-- استخدام الخط العربي نفسه في جميع الصفحات.
-- توحيد أحجام العناوين والنصوص المتشابهة.
-- توحيد أشكال الأزرار وحقول الإدخال والبطاقات.
-- الحفاظ على اتجاه RTL والمحاذاة العربية.
-- استخدام ظلال ناعمة وحدود متناسقة.
-- توحيد المسافات بين الأقسام والعناصر.
-- الحفاظ على استجابة التصميم لأحجام الشاشات المختلفة.
-- عدم تغيير التصميمات المرجعية أو صورها لمجرد تطبيق الأنيميشن.
+تُستخدم هذه الألوان بصورة متناسقة عبر جميع صفحات المشروع مع الحفاظ على وضوح النصوص وسهولة التصفح.
 
 ---
 
 <a id="screenshots"></a>
 
-## 🖼️ معرض صور المشروع | Screenshots
+## 🖼️ معرض صور الموقع
 
-يعرض هذا القسم التصميمات البصرية لواجهات مطعم الأندلس.
-
-### الصفحة الرئيسية والحجز
+### الصفحة الرئيسية
 
 <p align="center">
   <img src="assets/images/home-page.png" alt="الصفحة الرئيسية لمطعم الأندلس" width="100%">
 </p>
 
+### نظام الحجز
+
 <p align="center">
-  <img src="assets/images/reservation-page.png" alt="واجهة الحجز" width="100%">
+  <img src="assets/images/reservation-page.png" alt="تصميم نظام حجز الطاولات" width="100%">
 </p>
 
 ### من نحن وقائمة الطعام
 
 <p align="center">
-  <img src="assets/images/about-menu.png" alt="قسم من نحن وأشهر أطباق المطعم" width="100%">
+  <img src="assets/images/about-menu.png" alt="قسم من نحن وأطباق المطعم" width="100%">
 </p>
 
-### المنتجات والسلة
+### المنتجات
 
 <p align="center">
-  <img src="assets/images/products-page.png" alt="صفحة المنتجات" width="100%">
+  <img src="assets/images/products-page.png" alt="صفحة المنتجات والأطباق" width="100%">
 </p>
+
+### السلة والشراء
 
 <p align="center">
   <img src="assets/images/cart-page.png" alt="صفحة السلة والشراء" width="100%">
 </p>
 
-### التواصل وتسجيل الدخول ولوحة التحكم
+### التواصل معنا
 
 <p align="center">
-  <img src="assets/images/contact-page.png" alt="صفحة التواصل معنا" width="100%">
+  <img src="assets/images/contact-page.png" alt="صفحة التواصل مع مطعم الأندلس" width="100%">
 </p>
 
+### تسجيل دخول المشرف
+
 <p align="center">
-  <img src="assets/images/admin-login.png" alt="واجهة تسجيل دخول المشرف" width="100%">
+  <img src="assets/images/admin-login.png" alt="صفحة تسجيل دخول المشرف" width="100%">
 </p>
+
+### لوحة التحكم
 
 <p align="center">
   <img src="assets/images/admin-dashboard.png" alt="لوحة تحكم المشرف" width="100%">
@@ -216,367 +164,255 @@
 
 <a id="animations"></a>
 
-## 🎞️ الأنيميشن الاحترافي | Professional Animation
+## 🎞️ الحركة والأنيميشن | Motion & Interaction
 
-يهدف نظام الأنيميشن إلى جعل الموقع أكثر سلاسة وأناقة، مع الحفاظ على جودة الأداء ووضوح المحتوى.
+يعتمد التصميم على مبدأ الحركة الهادئة التي تحسن تجربة الاستخدام دون تشتيت الزائر.
 
-### 1. حركة الصفحة الرئيسية
+- **ظهور تدريجي:** انتقال ناعم للنصوص والعناوين عند عرض الأقسام.
+- **تفاعل البطاقات:** ظلال وارتفاع بسيط عند مرور المؤشر.
+- **حركة الصور:** تكبير خفيف ومحكوم داخل البطاقات.
+- **الأزرار:** انتقالات لونية متناسقة مع الأخضر المغربي.
+- **التنقل:** حركة سلسة بين أقسام الصفحة الرئيسية.
+- **النماذج:** إبراز حقول الإدخال وعرض رسائل التحقق بهدوء.
 
-- ظهور العنوان والنصوص والأزرار تدريجيًا عند تحميل الصفحة.
-- انتقالات بسيطة للعناصر عند دخولها إلى الشاشة.
-- حركات ناعمة لأزرار الحجز والطلب.
-- تأثيرات مناسبة على الصور الخلفية دون التسبب في تشويش النصوص.
-- الحفاظ على وضوح أزرار الدعوة إلى الإجراء.
+### معاينة متحركة
 
-### 2. حركة البطاقات والمنتجات
+بعد تجهيز تسجيل شاشة للموقع بصيغة GIF ورفع الملف إلى `assets/images/website-preview.gif`، يمكن عرضه هنا:
 
-- ارتفاع بسيط للبطاقات عند مرور المؤشر.
-- ظهور ظلال ناعمة عند التفاعل.
-- تكبير محدود للصور داخل حاوياتها.
-- انتقالات متناسقة بين الحالات العادية والتفاعلية.
-- عدم تحريك التخطيط بطريقة تسبب قفز العناصر.
+<!-- أزل التعليق التالي بعد رفع ملف GIF إلى المسار المحدد -->
+<!-- <p align="center"><img src="assets/images/website-preview.gif" alt="معاينة متحركة للموقع" width="100%"></p> -->
 
-### 3. حركة التنقل بين الأقسام
-
-- تمرير سلس عند الانتقال بين أقسام `index.html`.
-- إظهار العناصر عند الوصول إليها أثناء التمرير.
-- إبراز الرابط النشط في القائمة.
-- انتقالات متناسقة في قائمة الهاتف.
-
-### 4. حركة النماذج والحجز
-
-- إبراز حقول الإدخال عند التركيز.
-- عرض رسائل التحقق بسلاسة.
-- إظهار حالات التحميل أثناء إرسال الطلب.
-- منع الحركات التي تسبب ارتباكًا عند إدخال البيانات.
-
-### 5. حركة لوحة التحكم
-
-- ظهور بطاقات الإحصائيات تدريجيًا.
-- انتقالات بسيطة للبطاقات والجداول.
-- تأثيرات تفاعلية خفيفة للأزرار وعناصر القائمة.
-- عدم المبالغة في تحريك الأرقام والرسوم البيانية.
-
-### 6. قواعد جودة الأنيميشن
-
-- استخدام CSS Transitions وCSS Keyframes بحسب الحاجة.
-- استخدام JavaScript و`IntersectionObserver` للحركات المرتبطة بالتمرير.
-- تفضيل تحريك `opacity` و`transform` عندما يكون ذلك مناسبًا.
-- تجنب تشغيل الحركات باستمرار دون داعٍ.
-- عدم التأثير في سرعة الموقع أو سهولة استعماله.
-- احترام إعدادات `prefers-reduced-motion`.
-- الاحتفاظ بالتصميم الأساسي والصور والألوان دون تغيير.
-- اختبار الحركات على الهاتف والحاسوب.
-
-> توثق هذه المتطلبات سلوك الأنيميشن المطلوب؛ ويجب التأكد من تنفيذها فعليًا في ملفات CSS وJavaScript قبل وصفها بأنها مكتملة.
+> يدعم GitHub عرض صور GIF المتحركة، لكنه لا يشغّل CSS مخصصًا أو تأثيرات Hover مكتوبة داخل README. تُنفّذ الحركات الفعلية داخل الموقع باستخدام CSS وJavaScript.
 
 ---
 
 <a id="team"></a>
 
-## 👥 فريق العمل ومساهمات الأعضاء | Our Team
+## 👥 فريق العمل | Our Team
 
-يتكون الفريق من خمسة أعضاء. يحتوي كل قسم على صورة العضو، واسمه، ورابط حساب GitHub، ووصف مسؤولياته، وصور الواجهات المرتبطة بعمله.
+يتكون الفريق من خمسة أعضاء، لكل منهم مهام محددة في تصميم وتطوير صفحات الموقع.
 
-استبدل أسماء الحسابات والصور المؤقتة بمعلومات الأعضاء الحقيقية، ووثّق المساهمات الفعلية لكل شخص.
-
-### العضو الأول — الصفحة الرئيسية ونظام الحجز
+### 🟢 العضو الأول — الصفحة الرئيسية ونظام الحجز
 
 <p align="center">
-  <img src="assets/images/team/member-1.jpg" alt="الصورة الشخصية للعضو الأول" width="120">
+  <img src="assets/images/team/member-1.jpg" alt="صورة العضو الأول" width="110">
 </p>
 
 <p align="center">
   <strong>[اسم العضو الأول]</strong>
   <br>
-  <a href="https://github.com/USERNAME_1">زيارة حساب GitHub</a>
+  <a href="https://github.com/USERNAME_1">
+    <img src="https://img.shields.io/badge/GitHub-زيارة_الحساب-145A38?style=for-the-badge&logo=github&logoColor=white" alt="حساب GitHub للعضو الأول">
+  </a>
 </p>
 
-**المهام والمسؤوليات:**
+**المهام:**
+- إنشاء الصفحة الرئيسية `Home`.
+- تطوير واجهة الحجز `Reservations`.
+- تنسيق الصور والأزرار وعناصر التنقل.
+- تنظيم تجربة المستخدم في أقسام الرئيسية والحجز.
 
-- تصميم وتطوير الصفحة الرئيسية `Home`.
-- تطوير واجهة نظام الحجز `Reservations`.
-- تنسيق الصور والعناوين والأزرار.
-- تحسين تجربة التنقل والحجز.
-- الحفاظ على الهوية البصرية للموقع.
-
-**صور الأعمال المنجزة:**
+**الصفحات المنجزة:**
 
 <p align="center">
-  <img src="assets/images/home-page.png" alt="الصفحة الرئيسية التي عمل عليها العضو الأول" width="100%">
+  <img src="assets/images/home-page.png" alt="الصفحة الرئيسية — العضو الأول" width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/images/reservation-page.png" alt="صفحة الحجز التي عمل عليها العضو الأول" width="100%">
+  <img src="assets/images/reservation-page.png" alt="صفحة الحجز — العضو الأول" width="100%">
 </p>
 
-### العضو الثاني — التواصل وتسجيل الدخول
+### 🟢 العضو الثاني — التواصل وتسجيل دخول المشرف
 
 <p align="center">
-  <img src="assets/images/team/member-2.jpg" alt="الصورة الشخصية للعضو الثاني" width="120">
+  <img src="assets/images/team/member-2.jpg" alt="صورة العضو الثاني" width="110">
 </p>
 
 <p align="center">
   <strong>[اسم العضو الثاني]</strong>
   <br>
-  <a href="https://github.com/USERNAME_2">زيارة حساب GitHub</a>
+  <a href="https://github.com/USERNAME_2">
+    <img src="https://img.shields.io/badge/GitHub-زيارة_الحساب-145A38?style=for-the-badge&logo=github&logoColor=white" alt="حساب GitHub للعضو الثاني">
+  </a>
 </p>
 
-**المهام والمسؤوليات:**
-
-- تصميم قسم التواصل معنا `Contact Us`.
+**المهام:**
+- إنشاء قسم التواصل معنا `Contact Us`.
 - تطوير واجهة تسجيل دخول المشرف `Admin Login`.
-- تنظيم معلومات الاتصال ونماذج الإدخال.
+- تنسيق معلومات الاتصال ونماذج الإدخال.
 - تحسين وضوح الواجهات وتجربة الاستخدام.
-- المحافظة على تناسق الألوان والعناصر.
 
-**صور الأعمال المنجزة:**
+**الصفحات المنجزة:**
 
 <p align="center">
-  <img src="assets/images/contact-page.png" alt="قسم التواصل الذي عمل عليه العضو الثاني" width="100%">
+  <img src="assets/images/contact-page.png" alt="التواصل معنا — العضو الثاني" width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/images/admin-login.png" alt="واجهة تسجيل دخول المشرف التي عمل عليها العضو الثاني" width="100%">
+  <img src="assets/images/admin-login.png" alt="تسجيل دخول المشرف — العضو الثاني" width="100%">
 </p>
 
-### العضو الثالث — من نحن
+### 🟢 العضو الثالث — من نحن
 
 <p align="center">
-  <img src="assets/images/team/member-3.jpg" alt="الصورة الشخصية للعضو الثالث" width="120">
+  <img src="assets/images/team/member-3.jpg" alt="صورة العضو الثالث" width="110">
 </p>
 
 <p align="center">
   <strong>[اسم العضو الثالث]</strong>
   <br>
-  <a href="https://github.com/USERNAME_3">زيارة حساب GitHub</a>
+  <a href="https://github.com/USERNAME_3">
+    <img src="https://img.shields.io/badge/GitHub-زيارة_الحساب-145A38?style=for-the-badge&logo=github&logoColor=white" alt="حساب GitHub للعضو الثالث">
+  </a>
 </p>
 
-**المهام والمسؤوليات:**
-
+**المهام:**
 - تطوير قسم من نحن `About Us`.
-- إعداد المحتوى التعريفي بالمطعم.
+- تنظيم المحتوى التعريفي بالمطعم.
 - تنسيق صور المطعم والديكور المغربي.
-- عرض مميزات المطعم وهويته التقليدية.
-- الحفاظ على التناسق البصري مع بقية الأقسام.
+- الحفاظ على تناسق القسم مع الهوية البصرية.
 
-**صور الأعمال المنجزة:**
+**الصفحة المنجزة:**
 
 <p align="center">
-  <img src="assets/images/about-menu.png" alt="قسم من نحن الذي عمل عليه العضو الثالث" width="100%">
+  <img src="assets/images/about-menu.png" alt="قسم من نحن — العضو الثالث" width="100%">
 </p>
 
-### العضو الرابع — لوحة تحكم المشرف
+### 🟢 العضو الرابع — لوحة تحكم المشرف
 
 <p align="center">
-  <img src="assets/images/team/member-4.jpg" alt="الصورة الشخصية للعضو الرابع" width="120">
+  <img src="assets/images/team/member-4.jpg" alt="صورة العضو الرابع" width="110">
 </p>
 
 <p align="center">
   <strong>[اسم العضو الرابع]</strong>
   <br>
-  <a href="https://github.com/USERNAME_4">زيارة حساب GitHub</a>
+  <a href="https://github.com/USERNAME_4">
+    <img src="https://img.shields.io/badge/GitHub-زيارة_الحساب-145A38?style=for-the-badge&logo=github&logoColor=white" alt="حساب GitHub للعضو الرابع">
+  </a>
 </p>
 
-**المهام والمسؤوليات:**
-
-- تصميم واجهة لوحة التحكم `Admin Dashboard`.
+**المهام:**
+- تطوير لوحة تحكم المشرف `Admin Dashboard`.
 - تنظيم بطاقات الإحصائيات.
-- عرض الطلبات والحجوزات.
-- تصميم عناصر إدارة المنتجات والتقارير.
-- توحيد الألوان والتنسيق في الواجهة الإدارية.
+- تصميم أقسام عرض الطلبات والحجوزات.
+- تنسيق واجهة إدارة المنتجات والتقارير.
 
-**صور الأعمال المنجزة:**
+**الصفحة المنجزة:**
 
 <p align="center">
-  <img src="assets/images/admin-dashboard.png" alt="لوحة التحكم التي عمل عليها العضو الرابع" width="100%">
+  <img src="assets/images/admin-dashboard.png" alt="لوحة التحكم — العضو الرابع" width="100%">
 </p>
 
-### العضو الخامس — المنتجات والشراء
+### 🟢 العضو الخامس — المنتجات والشراء
 
 <p align="center">
-  <img src="assets/images/team/member-5.jpg" alt="الصورة الشخصية للعضو الخامس" width="120">
+  <img src="assets/images/team/member-5.jpg" alt="صورة العضو الخامس" width="110">
 </p>
 
 <p align="center">
   <strong>[اسم العضو الخامس]</strong>
   <br>
-  <a href="https://github.com/USERNAME_5">زيارة حساب GitHub</a>
+  <a href="https://github.com/USERNAME_5">
+    <img src="https://img.shields.io/badge/GitHub-زيارة_الحساب-145A38?style=for-the-badge&logo=github&logoColor=white" alt="حساب GitHub للعضو الخامس">
+  </a>
 </p>
 
-**المهام والمسؤوليات:**
-
+**المهام:**
 - تطوير صفحة المنتجات `Products`.
 - تطوير صفحة السلة والشراء `Cart & Checkout`.
-- تصميم بطاقات المنتجات.
-- تنظيم عرض الأسعار والكميات والإجمالي.
-- تحسين تجربة استعراض المنتجات وإتمام الطلب.
+- تنظيم عرض صور المنتجات وأسعارها.
+- تنسيق الكميات والإجمالي وتجربة الطلب.
 
-**صور الأعمال المنجزة:**
+**الصفحات المنجزة:**
 
 <p align="center">
-  <img src="assets/images/products-page.png" alt="صفحة المنتجات التي عمل عليها العضو الخامس" width="100%">
+  <img src="assets/images/products-page.png" alt="المنتجات — العضو الخامس" width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/images/cart-page.png" alt="صفحة السلة والشراء التي عمل عليها العضو الخامس" width="100%">
+  <img src="assets/images/cart-page.png" alt="السلة والشراء — العضو الخامس" width="100%">
 </p>
 
 ---
 
 <a id="technologies"></a>
 
-## 🛠️ التقنيات والأدوات | Technologies
+## 🛠️ التقنيات المستخدمة
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-145A38?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-0B422A?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-2F7548?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Git-A4A85D?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-145A38?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
 
 | التقنية | الاستخدام |
 |---|---|
-| HTML5 | هيكلة صفحات الموقع |
-| CSS3 | التصميم والتنسيق والتجاوب |
-| JavaScript | التفاعلات والتحقق من النماذج |
-| CSS Animations | الحركات والانتقالات |
-| IntersectionObserver | ظهور العناصر أثناء التمرير عند الحاجة |
+| HTML5 | بناء هيكل الموقع |
+| CSS3 | تصميم الواجهات وتنسيقها |
+| JavaScript | التفاعل والتحقق من النماذج |
 | Git | تتبع التغييرات |
-| GitHub | استضافة المستودع والتعاون |
-| Visual Studio Code | تحرير الكود وتطوير الواجهة |
-
----
-
-<a id="project-structure"></a>
-
-## 📁 بنية المشروع | Project Structure
-
-تعتمد الرئيسية ومن نحن وقائمة الطعام والحجز والتواصل على أقسام داخل `index.html`، بينما تستخدم بقية الوظائف ملفات مستقلة وفق البنية الفعلية للمشروع.
-
-```text
-al-andalus-restaurant/
-│
-├── README.md
-├── index.html
-├── products.html
-├── cart.html
-├── admin-login.html
-├── admin-dashboard.html
-│
-├── css/
-│   ├── style.css
-│   ├── animations.css
-│   └── responsive.css
-│
-├── js/
-│   ├── main.js
-│   ├── animations.js
-│   ├── products.js
-│   ├── cart.js
-│   └── admin.js
-│
-└── assets/
-    └── images/
-        ├── project-cover.png
-        ├── home-page.png
-        ├── reservation-page.png
-        ├── about-menu.png
-        ├── products-page.png
-        ├── cart-page.png
-        ├── contact-page.png
-        ├── admin-login.png
-        ├── admin-dashboard.png
-        └── team/
-            ├── member-1.jpg
-            ├── member-2.jpg
-            ├── member-3.jpg
-            ├── member-4.jpg
-            └── member-5.jpg
-```
-
-> هذه بنية تنظيمية مرجعية؛ يجب مطابقة جميع المسارات مع الملفات الموجودة فعليًا في المستودع، وعدم الإبقاء على أسماء صور غير موجودة.
+| GitHub | الاستضافة والتعاون الجماعي |
 
 ---
 
 <a id="installation"></a>
 
-## ⬇️ التثبيت والتشغيل | Installation & Usage
-
-### تحميل المشروع
+## ⬇️ التثبيت والتشغيل
 
 <p align="center">
   <a href="https://github.com/Ait-Momed/al-andalus-restaurant/archive/refs/heads/main.zip">
-    <img src="https://img.shields.io/badge/Download-Project%20ZIP-145A38?style=for-the-badge&logo=github&logoColor=white" alt="تحميل المشروع">
+    <img src="https://img.shields.io/badge/تحميل_المشروع-Download%20ZIP-145A38?style=for-the-badge&logo=github&logoColor=white" alt="تحميل المشروع بصيغة ZIP">
   </a>
 </p>
 
-اضغط على زر التحميل لتنزيل نسخة ZIP من مستودع المشروع على الفرع `main`، ثم فك ضغط الملف على جهازك.
+### تشغيل المشروع
 
-### التشغيل باستخدام Git
+1. حمّل المشروع بصيغة ZIP وفك ضغطه، أو استنسخه باستخدام Git.
+2. افتح مجلد المشروع في Visual Studio Code.
+3. افتح `index.html` باستخدام المتصفح أو Live Server.
+4. تحقق من مسارات الصور وملفات CSS وJavaScript.
+5. اختبر الروابط والنماذج والحركات على مختلف أحجام الشاشات.
+
+### الاستنساخ باستخدام Git
 
 ```bash
 git clone https://github.com/Ait-Momed/al-andalus-restaurant.git
 cd al-andalus-restaurant
 ```
 
-افتح المجلد باستخدام Visual Studio Code، ثم شغّل `index.html` باستخدام المتصفح أو إضافة Live Server.
-
-اختبر الصور والروابط والنماذج والأنيميشن على الهاتف والحاسوب.
-
-قد تحتاج المصادقة الحقيقية وإدارة الطلبات والحجوزات إلى خادم أو خدمة خارجية.
-
 ---
 
 ## 🤝 التعاون باستخدام GitHub
 
-- يستخدم كل عضو حساب GitHub الخاص به عند رفع مساهماته.
-- يمكن تخصيص فروع منفصلة للعمل على الميزات.
-- تُراجع التعديلات قبل دمجها.
+- يساهم كل عضو في المهام المخصصة له.
+- تُرفع التغييرات من حسابات الأعضاء الحقيقية.
+- تُراجع التعديلات قبل دمجها في الفرع الرئيسي.
 - تُستخدم رسائل Commit واضحة.
-- يمكن لكل عضو تثبيت مستودع المشروع في ملفه الشخصي.
-- يعكس قسم فريق العمل توزيع المهام، بينما توثق سجلات GitHub المساهمات الفعلية.
-
-### أمثلة على رسائل Commit
-
-```text
-feat: develop homepage and reservation
-feat: implement contact and admin login
-feat: build about us section
-feat: create admin dashboard
-feat: implement products and cart
-style: unify colors and add animations
-fix: improve responsive layout
-docs: update project README
-```
+- يمكن لكل عضو تثبيت المستودع في ملفه الشخصي.
 
 ---
 
 ## 🔐 الأمان والخصوصية
 
-تحتاج المصادقة الحقيقية والتحكم في صلاحيات المشرف إلى خادم أو خدمة موثوقة. لا تُخزّن كلمات المرور أو مفاتيح API السرية داخل JavaScript المتاح للزوار.
-
-يجب استخدام HTTPS وحماية بيانات العملاء والطلبات والحجوزات عند نشر الموقع.
+تحتاج المصادقة الحقيقية وإدارة بيانات الحجوزات والطلبات إلى خادم أو خدمة مناسبة. لا تخزّن كلمات المرور أو المفاتيح السرية داخل ملفات JavaScript المتاحة للزوار، واستخدم HTTPS عند نشر الموقع.
 
 ---
 
-## ✅ قائمة التحقق النهائية
+## 📜 الترخيص
 
-- [ ] جميع الأقسام والصفحات تعمل.
-- [ ] جميع الواجهات تستخدم لوحة الألوان المعتمدة.
-- [ ] الصور والمسارات تعمل بصورة صحيحة.
-- [ ] الأنيميشن ناعم ولا يضعف الأداء.
-- [ ] اتجاه RTL صحيح في جميع الواجهات.
-- [ ] التصميم متجاوب مع الشاشات المختلفة.
-- [ ] النماذج والأزرار تؤدي وظائفها الفعلية.
-- [ ] صور أعضاء الفريق وروابط GitHub محدثة.
-- [ ] تم اختبار الحجز والسلة والمنتجات.
-- [ ] تم اختبار المصادقة والصلاحيات عند تفعيلها.
-- [ ] التوثيق يعكس المشروع الفعلي.
-
----
-
-## 📜 الترخيص | License
-
-يُحدد ترخيص المشروع بالاتفاق بين أعضاء الفريق ووفق متطلبات الجهة التعليمية أو الجهة المستفيدة.
+يُحدد ترخيص المشروع باتفاق أعضاء الفريق ووفق متطلبات الجهة التعليمية أو الجهة المستفيدة.
 
 ---
 
 <p align="center">
-  <strong>مطعم الأندلس | Al Andalus Restaurant</strong>
+  <img src="https://img.shields.io/badge/Al%20Andalus-Moroccan%20Heritage-0B422A?style=for-the-badge" alt="Al Andalus Restaurant">
+</p>
+
+<p align="center">
+  <strong>مطعم الأندلس</strong>
   <br>
   أصالة المطبخ المغربي بلمسة عصرية 🇲🇦
 </p>
