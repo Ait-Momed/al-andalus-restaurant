@@ -231,7 +231,7 @@
 <p align="center">
   <strong>[Ait-Momed]</strong>
   <br>
-  <a href="[https://github.com/USERNAME_2](https://github.com/Ait-Momed)">
+  <a href="https://github.com/Ait-Momed">
     <img src="https://img.shields.io/badge/GitHub-زيارة_الحساب-145A38?style=for-the-badge&logo=github&logoColor=white" alt="حساب GitHub للعضو الثاني">
   </a>
 </p>
