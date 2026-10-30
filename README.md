@@ -232,7 +232,7 @@
   <strong>Ait-Momed</strong>
   <br>
   <a href="https://github.com/Ait-Momed">
-    <img src="https://img.shields.io/badge/GitHub-زيارة_الحساب-145A38?style=for-the-badge&logo=github&logoColor=white" alt="حساب GitHub للعضو الثاني">
+    <img src="al-andalus-restaurant/images/me.jpg" alt="حساب GitHub للعضو الثاني">
   </a>
 </p>
 
