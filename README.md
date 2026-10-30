@@ -235,12 +235,12 @@
 <table>
   <tr>
     <td width="85" align="center" valign="middle">
-      <img src="assets/images/team/member-2-circle.png" alt="صورة العضو الثاني" width="64" height="64">
+      <img src="al-andalus-restaurant/images/me.jpg" alt="صورة العضو الثاني" width="64" height="64">
     </td>
     <td valign="middle">
-      <strong>[اسم العضو الثاني]</strong>
+      <strong>Ait-Momed</strong>
       <br>
-      <a href="https://github.com/USERNAME_2">
+      <a href="https://github.com/Ait-Momed">
         <img src="https://img.shields.io/badge/GitHub-زيارة_الحساب-145A38?style=flat-square&logo=github&logoColor=white" alt="حساب GitHub للعضو الثاني">
       </a>
     </td>
