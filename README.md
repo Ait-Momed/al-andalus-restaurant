@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="assets/images/project-cover.png" alt="مطعم الأندلس — الغلاف الرسمي للمشروع" width="100%">
 </p>
 
@@ -23,14 +23,14 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <a href="#team"><img src="https://img.shields.io/badge/Our_Team-GitHub-0B422A?style=for-the-badge&logo=github&logoColor=white" alt="فريق GitHub"></a>
+  <a href="#team"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="حسابات فريق العمل"></a>
 </p>
 
 ---
 
 <a id="about-project"></a>
 
-## 🏛️ عن المشروع
+## 🏛️ عن المشروع | About the Project
 
 **مطعم الأندلس — Al Andalus Restaurant** هو مشروع موقع إلكتروني لمطعم مغربي تقليدي، يجمع بين التراث المغربي والتصميم العصري، مع واجهة عربية كاملة باتجاه RTL.
 
@@ -54,7 +54,7 @@
 
 <a id="features"></a>
 
-## ✨ مميزات الموقع
+## ✨ مميزات الموقع | Features
 
 <p align="center">
   <a href="#screenshots"><img src="https://img.shields.io/badge/01-الصفحة_الرئيسية-145A38?style=for-the-badge" alt="الرئيسية"></a>
@@ -69,8 +69,8 @@
 </p>
 
 - 🏠 صفحة رئيسية بصورة خلفية احترافية.
-- ℹ️ قسم للتعريف بالمطعم وهويته.
-- 🥘 قائمة طعام للأطباق المغربية.
+- ℹ️ قسم للتعريف بالمطعم وهويته المغربية.
+- 🥘 قائمة طعام للأطباق المغربية التقليدية.
 - 📅 واجهة لحجز الطاولات.
 - 📱 إمكانية ربط الطلبات والحجز عبر WhatsApp.
 - 📍 قسم للتواصل ومعلومات المطعم.
@@ -80,12 +80,13 @@
 - 📊 لوحة تحكم إدارية.
 - ✨ حركات انتقالية وتأثيرات تفاعلية أنيقة.
 - 📱 تصميم متجاوب مع الحاسوب والهاتف.
+- 🎨 هوية بصرية موحدة لجميع الصفحات.
 
 ---
 
 <a id="design-system"></a>
 
-## 🎨 الهوية البصرية
+## 🎨 الهوية البصرية | Design System
 
 تجمع الهوية البصرية بين الأجواء المغربية التقليدية والتصميم الحديث، باستخدام الأخضر المغربي والبيج والأبيض الكريمي، مع الزخارف الهندسية والصور الاحترافية.
 
@@ -104,13 +105,13 @@
 | <img src="https://img.shields.io/badge/-%20-E4E0D4?style=flat-square" alt="بيج رمادي"> البيج الرمادي | الحدود والفواصل | `#E4E0D4` |
 | <img src="https://img.shields.io/badge/-%20-A4A85D?style=flat-square" alt="ذهبي زيتوني"> الذهبي الزيتوني | الزخارف والتفاصيل | `#A4A85D` |
 
-تُستخدم هذه الألوان بصورة متناسقة عبر جميع صفحات المشروع مع الحفاظ على وضوح النصوص وسهولة التصفح.
+تُستخدم هذه الألوان بصورة متناسقة عبر جميع صفحات المشروع، مع الحفاظ على وضوح النصوص وسهولة التصفح.
 
 ---
 
 <a id="screenshots"></a>
 
-## 🖼️ معرض صور الموقع
+## 🖼️ معرض صور الموقع | Screenshots
 
 ### الصفحة الرئيسية
 
@@ -174,12 +175,13 @@
 - **الأزرار:** انتقالات لونية متناسقة مع الأخضر المغربي.
 - **التنقل:** حركة سلسة بين أقسام الصفحة الرئيسية.
 - **النماذج:** إبراز حقول الإدخال وعرض رسائل التحقق بهدوء.
+- **التجاوب:** الحفاظ على سلاسة الحركة في الهاتف والحاسوب.
 
 ### معاينة متحركة
 
-بعد تجهيز تسجيل شاشة للموقع بصيغة GIF ورفع الملف إلى `assets/images/website-preview.gif`، يمكن عرضه هنا:
+يمكن إضافة تسجيل متحرك للموقع بعد حفظه بصيغة GIF ورفعه إلى `assets/images/website-preview.gif`.
 
-<!-- أزل التعليق التالي بعد رفع ملف GIF إلى المسار المحدد -->
+<!-- بعد رفع ملف GIF، أزل التعليق عن السطر التالي -->
 <!-- <p align="center"><img src="assets/images/website-preview.gif" alt="معاينة متحركة للموقع" width="100%"></p> -->
 
 > يدعم GitHub عرض صور GIF المتحركة، لكنه لا يشغّل CSS مخصصًا أو تأثيرات Hover مكتوبة داخل README. تُنفّذ الحركات الفعلية داخل الموقع باستخدام CSS وJavaScript.
@@ -192,27 +194,33 @@
 
 يتكون الفريق من خمسة أعضاء، لكل منهم مهام محددة في تصميم وتطوير صفحات الموقع.
 
+> استبدل الأسماء وروابط الحسابات والصور المؤقتة بالمعلومات الحقيقية للأعضاء.
+
 ### 🟢 العضو الأول — الصفحة الرئيسية ونظام الحجز
 
-<p align="center">
-  <img src="assets/images/team/member-1.jpg" alt="صورة العضو الأول" width="110">
-</p>
+<table>
+  <tr>
+    <td width="85" align="center" valign="middle">
+      <img src="assets/images/team/member-1-circle.png" alt="صورة العضو الأول" width="64" height="64">
+    </td>
+    <td valign="middle">
+      <strong>[اسم العضو الأول]</strong>
+      <br>
+      <a href="https://github.com/USERNAME_1">
+        <img src="https://img.shields.io/badge/GitHub-زيارة_الحساب-145A38?style=flat-square&logo=github&logoColor=white" alt="حساب GitHub للعضو الأول">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <strong>[اسم العضو الأول]</strong>
-  <br>
-  <a href="https://github.com/USERNAME_1">
-    <img src="https://img.shields.io/badge/GitHub-زيارة_الحساب-145A38?style=for-the-badge&logo=github&logoColor=white" alt="حساب GitHub للعضو الأول">
-  </a>
-</p>
+**المهام والمسؤوليات**
 
-**المهام:**
 - إنشاء الصفحة الرئيسية `Home`.
 - تطوير واجهة الحجز `Reservations`.
-- تنسيق الصور والأزرار وعناصر التنقل.
-- تنظيم تجربة المستخدم في أقسام الرئيسية والحجز.
+- تنسيق الصور والعناوين والأزرار.
+- تنظيم تجربة المستخدم والتنقل بين الأقسام.
 
-**الصفحات المنجزة:**
+**صور الأعمال المنجزة**
 
 <p align="center">
   <img src="assets/images/home-page.png" alt="الصفحة الرئيسية — العضو الأول" width="100%">
@@ -224,55 +232,63 @@
 
 ### 🟢 العضو الثاني — التواصل وتسجيل دخول المشرف
 
-<p align="center">
-  <img src="assets/images/team/member-2.jpg" alt="صورة العضو الثاني" width="110">
-</p>
+<table>
+  <tr>
+    <td width="85" align="center" valign="middle">
+      <img src="assets/images/team/member-2-circle.png" alt="صورة العضو الثاني" width="64" height="64">
+    </td>
+    <td valign="middle">
+      <strong>[اسم العضو الثاني]</strong>
+      <br>
+      <a href="https://github.com/USERNAME_2">
+        <img src="https://img.shields.io/badge/GitHub-زيارة_الحساب-145A38?style=flat-square&logo=github&logoColor=white" alt="حساب GitHub للعضو الثاني">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <strong>Ait-Momed</strong>
-  <br>
-  <a href="https://github.com/Ait-Momed">
-    <img src="al-andalus-restaurant/images/me.jpg" alt="حساب GitHub للعضو الثاني">
-  </a>
-</p>
+**المهام والمسؤوليات**
 
-**المهام:**
 - إنشاء قسم التواصل معنا `Contact Us`.
 - تطوير واجهة تسجيل دخول المشرف `Admin Login`.
 - تنسيق معلومات الاتصال ونماذج الإدخال.
 - تحسين وضوح الواجهات وتجربة الاستخدام.
 
-**الصفحات المنجزة:**
+**صور الأعمال المنجزة**
 
 <p align="center">
   <img src="assets/images/contact-page.png" alt="التواصل معنا — العضو الثاني" width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/images/admin-login.png" alt="تسجيل دخول المشرف — العضو الثاني" width="100%">
+  <img src="assets/images/admin-login.png" alt="تسجيل الدخول — العضو الثاني" width="100%">
 </p>
 
 ### 🟢 العضو الثالث — من نحن
 
-<p align="center">
-  <img src="assets/images/team/member-3.jpg" alt="صورة العضو الثالث" width="110">
-</p>
+<table>
+  <tr>
+    <td width="85" align="center" valign="middle">
+      <img src="assets/images/team/member-3-circle.png" alt="صورة العضو الثالث" width="64" height="64">
+    </td>
+    <td valign="middle">
+      <strong>[اسم العضو الثالث]</strong>
+      <br>
+      <a href="https://github.com/USERNAME_3">
+        <img src="https://img.shields.io/badge/GitHub-زيارة_الحساب-145A38?style=flat-square&logo=github&logoColor=white" alt="حساب GitHub للعضو الثالث">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <strong>[اسم العضو الثالث]</strong>
-  <br>
-  <a href="https://github.com/USERNAME_3">
-    <img src="https://img.shields.io/badge/GitHub-زيارة_الحساب-145A38?style=for-the-badge&logo=github&logoColor=white" alt="حساب GitHub للعضو الثالث">
-  </a>
-</p>
+**المهام والمسؤوليات**
 
-**المهام:**
 - تطوير قسم من نحن `About Us`.
 - تنظيم المحتوى التعريفي بالمطعم.
 - تنسيق صور المطعم والديكور المغربي.
 - الحفاظ على تناسق القسم مع الهوية البصرية.
 
-**الصفحة المنجزة:**
+**صور الأعمال المنجزة**
 
 <p align="center">
   <img src="assets/images/about-menu.png" alt="قسم من نحن — العضو الثالث" width="100%">
@@ -280,25 +296,29 @@
 
 ### 🟢 العضو الرابع — لوحة تحكم المشرف
 
-<p align="center">
-  <img src="assets/images/team/member-4.jpg" alt="صورة العضو الرابع" width="110">
-</p>
+<table>
+  <tr>
+    <td width="85" align="center" valign="middle">
+      <img src="assets/images/team/member-4-circle.png" alt="صورة العضو الرابع" width="64" height="64">
+    </td>
+    <td valign="middle">
+      <strong>[اسم العضو الرابع]</strong>
+      <br>
+      <a href="https://github.com/USERNAME_4">
+        <img src="https://img.shields.io/badge/GitHub-زيارة_الحساب-145A38?style=flat-square&logo=github&logoColor=white" alt="حساب GitHub للعضو الرابع">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <strong>[اسم العضو الرابع]</strong>
-  <br>
-  <a href="https://github.com/USERNAME_4">
-    <img src="https://img.shields.io/badge/GitHub-زيارة_الحساب-145A38?style=for-the-badge&logo=github&logoColor=white" alt="حساب GitHub للعضو الرابع">
-  </a>
-</p>
+**المهام والمسؤوليات**
 
-**المهام:**
 - تطوير لوحة تحكم المشرف `Admin Dashboard`.
 - تنظيم بطاقات الإحصائيات.
 - تصميم أقسام عرض الطلبات والحجوزات.
 - تنسيق واجهة إدارة المنتجات والتقارير.
 
-**الصفحة المنجزة:**
+**صور الأعمال المنجزة**
 
 <p align="center">
   <img src="assets/images/admin-dashboard.png" alt="لوحة التحكم — العضو الرابع" width="100%">
@@ -306,25 +326,29 @@
 
 ### 🟢 العضو الخامس — المنتجات والشراء
 
-<p align="center">
-  <img src="assets/images/team/member-5.jpg" alt="صورة العضو الخامس" width="110">
-</p>
+<table>
+  <tr>
+    <td width="85" align="center" valign="middle">
+      <img src="assets/images/team/member-5-circle.png" alt="صورة العضو الخامس" width="64" height="64">
+    </td>
+    <td valign="middle">
+      <strong>[اسم العضو الخامس]</strong>
+      <br>
+      <a href="https://github.com/USERNAME_5">
+        <img src="https://img.shields.io/badge/GitHub-زيارة_الحساب-145A38?style=flat-square&logo=github&logoColor=white" alt="حساب GitHub للعضو الخامس">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <strong>[اسم العضو الخامس]</strong>
-  <br>
-  <a href="https://github.com/USERNAME_5">
-    <img src="https://img.shields.io/badge/GitHub-زيارة_الحساب-145A38?style=for-the-badge&logo=github&logoColor=white" alt="حساب GitHub للعضو الخامس">
-  </a>
-</p>
+**المهام والمسؤوليات**
 
-**المهام:**
 - تطوير صفحة المنتجات `Products`.
 - تطوير صفحة السلة والشراء `Cart & Checkout`.
 - تنظيم عرض صور المنتجات وأسعارها.
 - تنسيق الكميات والإجمالي وتجربة الطلب.
 
-**الصفحات المنجزة:**
+**صور الأعمال المنجزة**
 
 <p align="center">
   <img src="assets/images/products-page.png" alt="المنتجات — العضو الخامس" width="100%">
@@ -338,7 +362,7 @@
 
 <a id="technologies"></a>
 
-## 🛠️ التقنيات المستخدمة
+## 🛠️ التقنيات والأدوات | Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-145A38?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -358,9 +382,60 @@
 
 ---
 
+<a id="project-structure"></a>
+
+## 📁 بنية المشروع | Project Structure
+
+تعتمد الرئيسية ومن نحن وقائمة الطعام والحجز والتواصل على أقسام داخل `index.html`، بينما تستخدم المنتجات والسلة والإدارة ملفات مستقلة وفق بنية المشروع.
+
+```text
+al-andalus-restaurant/
+│
+├── README.md
+├── index.html
+├── products.html
+├── cart.html
+├── admin-login.html
+├── admin-dashboard.html
+│
+├── css/
+│   ├── style.css
+│   ├── animations.css
+│   └── responsive.css
+│
+├── js/
+│   ├── main.js
+│   ├── animations.js
+│   ├── products.js
+│   ├── cart.js
+│   └── admin.js
+│
+└── assets/
+    └── images/
+        ├── project-cover.png
+        ├── home-page.png
+        ├── reservation-page.png
+        ├── about-menu.png
+        ├── products-page.png
+        ├── cart-page.png
+        ├── contact-page.png
+        ├── admin-login.png
+        ├── admin-dashboard.png
+        └── team/
+            ├── member-1-circle.png
+            ├── member-2-circle.png
+            ├── member-3-circle.png
+            ├── member-4-circle.png
+            └── member-5-circle.png
+```
+
+> هذه بنية تنظيمية مقترحة. يجب أن تتطابق جميع أسماء الملفات والمسارات مع الملفات الموجودة فعليًا في المستودع.
+
+---
+
 <a id="installation"></a>
 
-## ⬇️ التثبيت والتشغيل
+## ⬇️ التثبيت والتشغيل | Installation & Usage
 
 <p align="center">
   <a href="https://github.com/Ait-Momed/al-andalus-restaurant/archive/refs/heads/main.zip">
@@ -368,10 +443,10 @@
   </a>
 </p>
 
-### تشغيل المشروع
+### تشغيل المشروع محليًا
 
-1. حمّل المشروع بصيغة ZIP وفك ضغطه، أو استنسخه باستخدام Git.
-2. افتح مجلد المشروع في Visual Studio Code.
+1. حمّل المشروع بصيغة ZIP وفك ضغطه.
+2. افتح مجلد المشروع باستخدام Visual Studio Code.
 3. افتح `index.html` باستخدام المتصفح أو Live Server.
 4. تحقق من مسارات الصور وملفات CSS وJavaScript.
 5. اختبر الروابط والنماذج والحركات على مختلف أحجام الشاشات.
@@ -401,7 +476,7 @@ cd al-andalus-restaurant
 
 ---
 
-## 📜 الترخيص
+## 📜 الترخيص | License
 
 يُحدد ترخيص المشروع باتفاق أعضاء الفريق ووفق متطلبات الجهة التعليمية أو الجهة المستفيدة.
 
