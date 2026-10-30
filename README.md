@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="assets/images/project-cover.png" alt="مطعم الأندلس — الغلاف الرسمي للمشروع" width="100%">
+  <img src="al-andalus-restaurant/images/hero-bg.jpg" alt="مطعم الأندلس — الغلاف الرسمي للمشروع" width="100%">
 </p>
 
 <h1 align="center">🍽️ مطعم الأندلس</h1>
