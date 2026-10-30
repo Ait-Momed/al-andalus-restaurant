@@ -261,7 +261,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/images/admin-login.png" alt="تسجيل الدخول — العضو الثاني" width="100%">
+  <img src="al-andalus-restaurant/images/login.jpeg" alt="تسجيل الدخول — العضو الثاني" width="100%">
 </p>
 
 ### 🟢 العضو الثالث — من نحن
