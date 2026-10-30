@@ -257,7 +257,7 @@
 **صور الأعمال المنجزة**
 
 <p align="center">
-  <img src="assets/images/contact-page.png" alt="التواصل معنا — العضو الثاني" width="100%">
+  <img src="al-andalus-restaurant/images/contact.jpeg" alt="التواصل معنا — العضو الثاني" width="100%">
 </p>
 
 <p align="center">
