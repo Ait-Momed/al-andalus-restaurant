@@ -400,12 +400,12 @@ al-andalus-restaurant/
 │
 ├── css/
 │   ├── style.css
-│   ├── animations.css
+│   ├── admin-login.css
 │   └── responsive.css
 │
 ├── js/
 │   ├── main.js
-│   ├── animations.js
+│   ├── admin-login.js
 │   ├── products.js
 │   ├── cart.js
 │   └── admin.js
