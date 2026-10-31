@@ -272,9 +272,9 @@
       <img src="assets/images/team/member-3-circle.png" alt="صورة العضو الثالث" width="64" height="64">
     </td>
     <td valign="middle">
-      <strong>[اسم العضو الثالث]</strong>
+      <strong>salma-iwjj-dev</strong>
       <br>
-      <a href="https://github.com/USERNAME_3">
+      <a href="[https://github.com/USERNAME_3](https://github.com/salma-iwjj-dev)">
         <img src="https://img.shields.io/badge/GitHub-زيارة_الحساب-145A38?style=flat-square&logo=github&logoColor=white" alt="حساب GitHub للعضو الثالث">
       </a>
     </td>
